@@ -1,2 +1,2 @@
 # UMC-work
-UMC  과제 
+UMC  7주차 과제 
